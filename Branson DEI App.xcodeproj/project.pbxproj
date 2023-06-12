@@ -27,6 +27,7 @@
 		0627ED622A3699980067CF0F /* EntriesListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0627ED612A3699980067CF0F /* EntriesListView.swift */; };
 		0627ED652A369A530067CF0F /* BransonDEI.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 0627ED632A369A530067CF0F /* BransonDEI.xcdatamodeld */; };
 		0627ED692A369D930067CF0F /* PersistenceController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0627ED682A369D930067CF0F /* PersistenceController.swift */; };
+		EB56F2E32A36D68800CBEDB3 /* LoginView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB56F2E22A36D68800CBEDB3 /* LoginView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -70,6 +71,7 @@
 		0627ED612A3699980067CF0F /* EntriesListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EntriesListView.swift; sourceTree = "<group>"; };
 		0627ED642A369A530067CF0F /* BransonDEI.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = BransonDEI.xcdatamodel; sourceTree = "<group>"; };
 		0627ED682A369D930067CF0F /* PersistenceController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PersistenceController.swift; sourceTree = "<group>"; };
+		EB56F2E22A36D68800CBEDB3 /* LoginView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -136,6 +138,7 @@
 				0627ED4B2A367FC20067CF0F /* Color.swift */,
 				0627ED4D2A367FF10067CF0F /* DEIOverviewView.swift */,
 				0627ED4F2A36800B0067CF0F /* DashboardView.swift */,
+				EB56F2E22A36D68800CBEDB3 /* LoginView.swift */,
 				0627ED232A367F1A0067CF0F /* Preview Content */,
 			);
 			path = "Branson DEI App";
@@ -310,6 +313,7 @@
 				0627ED1E2A367F160067CF0F /* Branson_DEI_AppApp.swift in Sources */,
 				0627ED652A369A530067CF0F /* BransonDEI.xcdatamodeld in Sources */,
 				0627ED582A3680C70067CF0F /* UIColor.swift in Sources */,
+				EB56F2E32A36D68800CBEDB3 /* LoginView.swift in Sources */,
 				0627ED692A369D930067CF0F /* PersistenceController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

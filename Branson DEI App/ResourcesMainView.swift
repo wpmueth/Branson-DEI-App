@@ -76,7 +76,7 @@ struct ResourcesMainView: View {
                     .resizable()
                     .aspectRatio(contentMode: .fit)
                     .frame(height: 200)
-                    .padding()
+                    .cornerRadius(10)
                 
                 Text("Other useful resources")
                     .font(.custom("Ubuntu-Regular", size: 17))
