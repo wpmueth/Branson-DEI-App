@@ -1,0 +1,647 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		0627ED1E2A367F160067CF0F /* Branson_DEI_AppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0627ED1D2A367F160067CF0F /* Branson_DEI_AppApp.swift */; };
+		0627ED222A367F1A0067CF0F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0627ED212A367F1A0067CF0F /* Assets.xcassets */; };
+		0627ED252A367F1A0067CF0F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0627ED242A367F1A0067CF0F /* Preview Assets.xcassets */; };
+		0627ED2F2A367F1A0067CF0F /* Branson_DEI_AppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0627ED2E2A367F1A0067CF0F /* Branson_DEI_AppTests.swift */; };
+		0627ED392A367F1A0067CF0F /* Branson_DEI_AppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0627ED382A367F1A0067CF0F /* Branson_DEI_AppUITests.swift */; };
+		0627ED3B2A367F1A0067CF0F /* Branson_DEI_AppUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0627ED3A2A367F1A0067CF0F /* Branson_DEI_AppUITestsLaunchTests.swift */; };
+		0627ED482A367F730067CF0F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0627ED472A367F730067CF0F /* ContentView.swift */; };
+		0627ED4A2A367FA00067CF0F /* CaseScenarioList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0627ED492A367FA00067CF0F /* CaseScenarioList.swift */; };
+		0627ED4C2A367FC20067CF0F /* Color.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0627ED4B2A367FC20067CF0F /* Color.swift */; };
+		0627ED4E2A367FF10067CF0F /* DEIOverviewView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0627ED4D2A367FF10067CF0F /* DEIOverviewView.swift */; };
+		0627ED502A36800B0067CF0F /* DashboardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0627ED4F2A36800B0067CF0F /* DashboardView.swift */; };
+		0627ED522A36806A0067CF0F /* JournalingMainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0627ED512A36806A0067CF0F /* JournalingMainView.swift */; };
+		0627ED542A36808E0067CF0F /* ResourcesMainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0627ED532A36808E0067CF0F /* ResourcesMainView.swift */; };
+		0627ED562A3680A90067CF0F /* ScenarioCreationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0627ED552A3680A90067CF0F /* ScenarioCreationView.swift */; };
+		0627ED582A3680C70067CF0F /* UIColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0627ED572A3680C70067CF0F /* UIColor.swift */; };
+		0627ED5A2A36983D0067CF0F /* NewEntryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0627ED592A36983D0067CF0F /* NewEntryView.swift */; };
+		0627ED602A36998B0067CF0F /* EntryDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0627ED5F2A36998B0067CF0F /* EntryDetailView.swift */; };
+		0627ED622A3699980067CF0F /* EntriesListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0627ED612A3699980067CF0F /* EntriesListView.swift */; };
+		0627ED652A369A530067CF0F /* BransonDEI.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 0627ED632A369A530067CF0F /* BransonDEI.xcdatamodeld */; };
+		0627ED692A369D930067CF0F /* PersistenceController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0627ED682A369D930067CF0F /* PersistenceController.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		0627ED2B2A367F1A0067CF0F /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 0627ED122A367F160067CF0F /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 0627ED192A367F160067CF0F;
+			remoteInfo = "Branson DEI App";
+		};
+		0627ED352A367F1A0067CF0F /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 0627ED122A367F160067CF0F /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 0627ED192A367F160067CF0F;
+			remoteInfo = "Branson DEI App";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		0627ED1A2A367F160067CF0F /* Branson DEI App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Branson DEI App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		0627ED1D2A367F160067CF0F /* Branson_DEI_AppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Branson_DEI_AppApp.swift; sourceTree = "<group>"; };
+		0627ED212A367F1A0067CF0F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		0627ED242A367F1A0067CF0F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		0627ED2A2A367F1A0067CF0F /* Branson DEI AppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Branson DEI AppTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		0627ED2E2A367F1A0067CF0F /* Branson_DEI_AppTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Branson_DEI_AppTests.swift; sourceTree = "<group>"; };
+		0627ED342A367F1A0067CF0F /* Branson DEI AppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Branson DEI AppUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		0627ED382A367F1A0067CF0F /* Branson_DEI_AppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Branson_DEI_AppUITests.swift; sourceTree = "<group>"; };
+		0627ED3A2A367F1A0067CF0F /* Branson_DEI_AppUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Branson_DEI_AppUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		0627ED472A367F730067CF0F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		0627ED492A367FA00067CF0F /* CaseScenarioList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CaseScenarioList.swift; sourceTree = "<group>"; };
+		0627ED4B2A367FC20067CF0F /* Color.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Color.swift; sourceTree = "<group>"; };
+		0627ED4D2A367FF10067CF0F /* DEIOverviewView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DEIOverviewView.swift; sourceTree = "<group>"; };
+		0627ED4F2A36800B0067CF0F /* DashboardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DashboardView.swift; sourceTree = "<group>"; };
+		0627ED512A36806A0067CF0F /* JournalingMainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JournalingMainView.swift; sourceTree = "<group>"; };
+		0627ED532A36808E0067CF0F /* ResourcesMainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResourcesMainView.swift; sourceTree = "<group>"; };
+		0627ED552A3680A90067CF0F /* ScenarioCreationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScenarioCreationView.swift; sourceTree = "<group>"; };
+		0627ED572A3680C70067CF0F /* UIColor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIColor.swift; sourceTree = "<group>"; };
+		0627ED592A36983D0067CF0F /* NewEntryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewEntryView.swift; sourceTree = "<group>"; };
+		0627ED5F2A36998B0067CF0F /* EntryDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EntryDetailView.swift; sourceTree = "<group>"; };
+		0627ED612A3699980067CF0F /* EntriesListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EntriesListView.swift; sourceTree = "<group>"; };
+		0627ED642A369A530067CF0F /* BransonDEI.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = BransonDEI.xcdatamodel; sourceTree = "<group>"; };
+		0627ED682A369D930067CF0F /* PersistenceController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PersistenceController.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		0627ED172A367F160067CF0F /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		0627ED272A367F1A0067CF0F /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		0627ED312A367F1A0067CF0F /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		0627ED112A367F160067CF0F = {
+			isa = PBXGroup;
+			children = (
+				0627ED1C2A367F160067CF0F /* Branson DEI App */,
+				0627ED2D2A367F1A0067CF0F /* Branson DEI AppTests */,
+				0627ED372A367F1A0067CF0F /* Branson DEI AppUITests */,
+				0627ED1B2A367F160067CF0F /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		0627ED1B2A367F160067CF0F /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				0627ED1A2A367F160067CF0F /* Branson DEI App.app */,
+				0627ED2A2A367F1A0067CF0F /* Branson DEI AppTests.xctest */,
+				0627ED342A367F1A0067CF0F /* Branson DEI AppUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		0627ED1C2A367F160067CF0F /* Branson DEI App */ = {
+			isa = PBXGroup;
+			children = (
+				0627ED1D2A367F160067CF0F /* Branson_DEI_AppApp.swift */,
+				0627ED682A369D930067CF0F /* PersistenceController.swift */,
+				0627ED512A36806A0067CF0F /* JournalingMainView.swift */,
+				0627ED592A36983D0067CF0F /* NewEntryView.swift */,
+				0627ED5F2A36998B0067CF0F /* EntryDetailView.swift */,
+				0627ED612A3699980067CF0F /* EntriesListView.swift */,
+				0627ED632A369A530067CF0F /* BransonDEI.xcdatamodeld */,
+				0627ED532A36808E0067CF0F /* ResourcesMainView.swift */,
+				0627ED552A3680A90067CF0F /* ScenarioCreationView.swift */,
+				0627ED572A3680C70067CF0F /* UIColor.swift */,
+				0627ED212A367F1A0067CF0F /* Assets.xcassets */,
+				0627ED472A367F730067CF0F /* ContentView.swift */,
+				0627ED492A367FA00067CF0F /* CaseScenarioList.swift */,
+				0627ED4B2A367FC20067CF0F /* Color.swift */,
+				0627ED4D2A367FF10067CF0F /* DEIOverviewView.swift */,
+				0627ED4F2A36800B0067CF0F /* DashboardView.swift */,
+				0627ED232A367F1A0067CF0F /* Preview Content */,
+			);
+			path = "Branson DEI App";
+			sourceTree = "<group>";
+		};
+		0627ED232A367F1A0067CF0F /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				0627ED242A367F1A0067CF0F /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		0627ED2D2A367F1A0067CF0F /* Branson DEI AppTests */ = {
+			isa = PBXGroup;
+			children = (
+				0627ED2E2A367F1A0067CF0F /* Branson_DEI_AppTests.swift */,
+			);
+			path = "Branson DEI AppTests";
+			sourceTree = "<group>";
+		};
+		0627ED372A367F1A0067CF0F /* Branson DEI AppUITests */ = {
+			isa = PBXGroup;
+			children = (
+				0627ED382A367F1A0067CF0F /* Branson_DEI_AppUITests.swift */,
+				0627ED3A2A367F1A0067CF0F /* Branson_DEI_AppUITestsLaunchTests.swift */,
+			);
+			path = "Branson DEI AppUITests";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		0627ED192A367F160067CF0F /* Branson DEI App */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 0627ED3E2A367F1A0067CF0F /* Build configuration list for PBXNativeTarget "Branson DEI App" */;
+			buildPhases = (
+				0627ED162A367F160067CF0F /* Sources */,
+				0627ED172A367F160067CF0F /* Frameworks */,
+				0627ED182A367F160067CF0F /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Branson DEI App";
+			productName = "Branson DEI App";
+			productReference = 0627ED1A2A367F160067CF0F /* Branson DEI App.app */;
+			productType = "com.apple.product-type.application";
+		};
+		0627ED292A367F1A0067CF0F /* Branson DEI AppTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 0627ED412A367F1A0067CF0F /* Build configuration list for PBXNativeTarget "Branson DEI AppTests" */;
+			buildPhases = (
+				0627ED262A367F1A0067CF0F /* Sources */,
+				0627ED272A367F1A0067CF0F /* Frameworks */,
+				0627ED282A367F1A0067CF0F /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				0627ED2C2A367F1A0067CF0F /* PBXTargetDependency */,
+			);
+			name = "Branson DEI AppTests";
+			productName = "Branson DEI AppTests";
+			productReference = 0627ED2A2A367F1A0067CF0F /* Branson DEI AppTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		0627ED332A367F1A0067CF0F /* Branson DEI AppUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 0627ED442A367F1A0067CF0F /* Build configuration list for PBXNativeTarget "Branson DEI AppUITests" */;
+			buildPhases = (
+				0627ED302A367F1A0067CF0F /* Sources */,
+				0627ED312A367F1A0067CF0F /* Frameworks */,
+				0627ED322A367F1A0067CF0F /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				0627ED362A367F1A0067CF0F /* PBXTargetDependency */,
+			);
+			name = "Branson DEI AppUITests";
+			productName = "Branson DEI AppUITests";
+			productReference = 0627ED342A367F1A0067CF0F /* Branson DEI AppUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		0627ED122A367F160067CF0F /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1430;
+				LastUpgradeCheck = 1430;
+				TargetAttributes = {
+					0627ED192A367F160067CF0F = {
+						CreatedOnToolsVersion = 14.3.1;
+					};
+					0627ED292A367F1A0067CF0F = {
+						CreatedOnToolsVersion = 14.3.1;
+						TestTargetID = 0627ED192A367F160067CF0F;
+					};
+					0627ED332A367F1A0067CF0F = {
+						CreatedOnToolsVersion = 14.3.1;
+						TestTargetID = 0627ED192A367F160067CF0F;
+					};
+				};
+			};
+			buildConfigurationList = 0627ED152A367F160067CF0F /* Build configuration list for PBXProject "Branson DEI App" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 0627ED112A367F160067CF0F;
+			productRefGroup = 0627ED1B2A367F160067CF0F /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				0627ED192A367F160067CF0F /* Branson DEI App */,
+				0627ED292A367F1A0067CF0F /* Branson DEI AppTests */,
+				0627ED332A367F1A0067CF0F /* Branson DEI AppUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		0627ED182A367F160067CF0F /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0627ED252A367F1A0067CF0F /* Preview Assets.xcassets in Resources */,
+				0627ED222A367F1A0067CF0F /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		0627ED282A367F1A0067CF0F /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		0627ED322A367F1A0067CF0F /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		0627ED162A367F160067CF0F /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0627ED602A36998B0067CF0F /* EntryDetailView.swift in Sources */,
+				0627ED562A3680A90067CF0F /* ScenarioCreationView.swift in Sources */,
+				0627ED522A36806A0067CF0F /* JournalingMainView.swift in Sources */,
+				0627ED482A367F730067CF0F /* ContentView.swift in Sources */,
+				0627ED502A36800B0067CF0F /* DashboardView.swift in Sources */,
+				0627ED4C2A367FC20067CF0F /* Color.swift in Sources */,
+				0627ED622A3699980067CF0F /* EntriesListView.swift in Sources */,
+				0627ED4A2A367FA00067CF0F /* CaseScenarioList.swift in Sources */,
+				0627ED542A36808E0067CF0F /* ResourcesMainView.swift in Sources */,
+				0627ED5A2A36983D0067CF0F /* NewEntryView.swift in Sources */,
+				0627ED4E2A367FF10067CF0F /* DEIOverviewView.swift in Sources */,
+				0627ED1E2A367F160067CF0F /* Branson_DEI_AppApp.swift in Sources */,
+				0627ED652A369A530067CF0F /* BransonDEI.xcdatamodeld in Sources */,
+				0627ED582A3680C70067CF0F /* UIColor.swift in Sources */,
+				0627ED692A369D930067CF0F /* PersistenceController.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		0627ED262A367F1A0067CF0F /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0627ED2F2A367F1A0067CF0F /* Branson_DEI_AppTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		0627ED302A367F1A0067CF0F /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0627ED392A367F1A0067CF0F /* Branson_DEI_AppUITests.swift in Sources */,
+				0627ED3B2A367F1A0067CF0F /* Branson_DEI_AppUITestsLaunchTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		0627ED2C2A367F1A0067CF0F /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 0627ED192A367F160067CF0F /* Branson DEI App */;
+			targetProxy = 0627ED2B2A367F1A0067CF0F /* PBXContainerItemProxy */;
+		};
+		0627ED362A367F1A0067CF0F /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 0627ED192A367F160067CF0F /* Branson DEI App */;
+			targetProxy = 0627ED352A367F1A0067CF0F /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		0627ED3C2A367F1A0067CF0F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		0627ED3D2A367F1A0067CF0F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		0627ED3F2A367F1A0067CF0F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Branson DEI App/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.williammueth.Branson-DEI-App";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		0627ED402A367F1A0067CF0F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Branson DEI App/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.williammueth.Branson-DEI-App";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		0627ED422A367F1A0067CF0F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.williammueth.Branson-DEI-AppTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Branson DEI App.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Branson DEI App";
+			};
+			name = Debug;
+		};
+		0627ED432A367F1A0067CF0F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.williammueth.Branson-DEI-AppTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Branson DEI App.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Branson DEI App";
+			};
+			name = Release;
+		};
+		0627ED452A367F1A0067CF0F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.williammueth.Branson-DEI-AppUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Branson DEI App";
+			};
+			name = Debug;
+		};
+		0627ED462A367F1A0067CF0F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.williammueth.Branson-DEI-AppUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Branson DEI App";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		0627ED152A367F160067CF0F /* Build configuration list for PBXProject "Branson DEI App" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0627ED3C2A367F1A0067CF0F /* Debug */,
+				0627ED3D2A367F1A0067CF0F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		0627ED3E2A367F1A0067CF0F /* Build configuration list for PBXNativeTarget "Branson DEI App" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0627ED3F2A367F1A0067CF0F /* Debug */,
+				0627ED402A367F1A0067CF0F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		0627ED412A367F1A0067CF0F /* Build configuration list for PBXNativeTarget "Branson DEI AppTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0627ED422A367F1A0067CF0F /* Debug */,
+				0627ED432A367F1A0067CF0F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		0627ED442A367F1A0067CF0F /* Build configuration list for PBXNativeTarget "Branson DEI AppUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0627ED452A367F1A0067CF0F /* Debug */,
+				0627ED462A367F1A0067CF0F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		0627ED632A369A530067CF0F /* BransonDEI.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				0627ED642A369A530067CF0F /* BransonDEI.xcdatamodel */,
+			);
+			currentVersion = 0627ED642A369A530067CF0F /* BransonDEI.xcdatamodel */;
+			path = BransonDEI.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
+	};
+	rootObject = 0627ED122A367F160067CF0F /* Project object */;
+}
