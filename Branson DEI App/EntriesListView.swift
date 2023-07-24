@@ -14,7 +14,7 @@ struct EntriesListView: View {
         sortDescriptors: [NSSortDescriptor(keyPath: \Entry.date, ascending: false)],
         animation: .default)
     private var entries: FetchedResults<Entry>
-
+    
     var body: some View {
         NavigationView {
             ZStack {
@@ -35,7 +35,7 @@ struct EntriesListView: View {
             
         }
     }
-
+    
     private func deleteEntries(offsets: IndexSet) {
         withAnimation {
             offsets.map { entries[$0] }.forEach(viewContext.delete)
@@ -46,11 +46,12 @@ struct EntriesListView: View {
             }
         }
     }
-
+    
     private struct EntryRowView: View {
         let entry: Entry
         let viewContext: NSManagedObjectContext
         @State private var isShowingEntry = false
+        @State private var showingDeleteConfirmation = false // Add this line
         
         private let dateFormatter: DateFormatter = {
             let formatter = DateFormatter()
@@ -58,7 +59,7 @@ struct EntriesListView: View {
             formatter.timeStyle = .none
             return formatter
         }()
-
+        
         var body: some View {
             HStack {
                 VStack(alignment: .leading, spacing: 4) {
@@ -73,12 +74,12 @@ struct EntriesListView: View {
                 Spacer()
                 Image(systemName: "trash")
                     .foregroundColor(.red)
+                    .frame(width: 15.0, height: 15.0)
                     .onTapGesture {
-                        confirmDeleteEntry(entry: entry)
+                        showingDeleteConfirmation = true // show alert instead of calling the function
                     }
                     .padding(.trailing)
                     .contentShape(Rectangle())
-                
             }
             .padding(.vertical, 8)
             .padding(.horizontal, 12)
@@ -90,20 +91,10 @@ struct EntriesListView: View {
             .sheet(isPresented: $isShowingEntry) {
                 EntryDetailView(entry: entry)
             }
-        }
-        
-        private func confirmDeleteEntry(entry: Entry) {
-            let alert = UIAlertController(title: "Confirm Deletion",
-                                          message: "Are you sure you want to delete this entry?",
-                                          preferredStyle: .alert)
-            
-            alert.addAction(UIAlertAction(title: "Cancel", style: .cancel, handler: nil))
-            alert.addAction(UIAlertAction(title: "Delete", style: .destructive, handler: { _ in
-                deleteEntry(entry)
-            }))
-            
-            if let topViewController = UIApplication.shared.windows.first?.rootViewController {
-                topViewController.present(alert, animated: true, completion: nil)
+            .alert(isPresented: $showingDeleteConfirmation) {
+                Alert(title: Text("Confirm Deletion"), message: Text("Are you sure you want to delete this entry?"), primaryButton: .destructive(Text("Delete")) {
+                    deleteEntry(entry)
+                }, secondaryButton: .cancel())
             }
         }
         

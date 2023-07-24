@@ -37,13 +37,13 @@ struct NewEntryView: View {
                             if content.isEmpty && !isEditing {
                                 Text("Record your thoughts here...")
                                     .foregroundColor(Color.gray.opacity(0.75))
-                                    .font(.custom("Ubuntu-Regular", size: 18))
+                                    .font(.custom("Ubuntu", size: 18))
                                     .padding(.horizontal)
                                     .padding(.top, 6)
                             }
                             
                             TextEditor(text: $content)
-                                .font(.custom("Ubuntu-Regular", size: 16))
+                                .font(.custom("Ubuntu", size: 16))
                                 .padding(.horizontal)
                                 .opacity(content.isEmpty && !isEditing ? 0.25 : 1) // Adjust the opacity based on content presence
                                 .accentColor(Color.blue) // Set the cursor color

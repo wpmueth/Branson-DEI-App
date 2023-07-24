@@ -1,0 +1,427 @@
+  [
+      {
+          "term": "Societal Norms",
+          "definition": "Rules that a society uses for acceptable behavior, values, and beliefs.",
+          "impact": "Societal norms shape individuals' behaviors and perspectives, often to the extent of suppressing uniqueness and individuality. \n\nChallenging societal norms can pave the way for increased social understanding and progress.",
+          "example": "Example #1: Most societies expect people to queue in line and wait for their turn. \n\nExample #2: In many cultures, it's considered normal for men to not express their emotions openly.",
+          "myths": "Myth #1: Societal norms are unchangeable facts of life, disregarding the power of social change. \n\nMyth #2: All societal norms are harmful, ignoring their potential role in social order and cooperation.",
+          "reflection": "Prompt A: Reflect on a societal norm that you followed without questioning. What is its impact on you and others? \n\nPrompt B: Recall an instance where you felt the need to challenge a societal norm. How did you handle it? \n\nPrompt C: Consider how you can support others in questioning and challenging harmful societal norms."
+        },
+        {
+          "term": "Social Justice",
+          "definition": "A concept based on human rights and equality, involving a fair and just relationship between the individual and society, often involving the distribution of wealth, opportunities, and privileges.",
+          "impact": "Social justice can promote societal stability and cohesion by addressing disparities and fostering inclusivity. \n\nStriving for social justice involves active efforts to challenge systemic issues and foster equality.",
+          "example": "Example #1: Advocating for equal rights for all, irrespective of race, religion, or gender. \n\nExample #2: Working to ensure that everyone has access to quality healthcare and education.",
+          "myths": "Myth #1: Social justice is achieved purely through legislation, disregarding the need for societal shifts. \n\nMyth #2: Social justice equals uniformity, overlooking the need for acknowledging and appreciating diversity.",
+          "reflection": "Prompt A: Reflect on how your understanding of social justice has evolved over time. What were key influences? \n\nPrompt B: Recall an instance when you took action to promote social justice. How did that impact you and those around you? \n\nPrompt C: Consider ways you can contribute to social justice in your daily life."
+        },
+        {
+          "term": "Cultural Appropriation",
+          "definition": "Adoption or borrowing of elements of one culture by members of another culture, often without understanding or respecting the original culture and context.",
+          "impact": "Cultural appropriation can result in the commodification and distortion of cultures, leading to stereotypes. \n\nAwareness and understanding can aid in appreciating cultures without appropriating them.",
+          "example": "Example #1: Wearing traditional attire from a culture as a fashion statement without understanding its significance. \n\nExample #2: Commercializing cultural practices for profit without benefiting the source community.",
+          "myths": "Myth #1: Cultural appropriation is a form of flattery, neglecting its potential harm and disrespect. \n\nMyth #2: There is a clear line between cultural appreciation and cultural appropriation, ignoring the nuanced reality.",
+          "reflection": "Prompt A: Reflect on an instance where you might have unknowingly engaged in cultural appropriation. How do you feel about it now? \n\nPrompt B: Recall a time when you witnessed cultural appropriation. How did you respond? \n\nPrompt C: What steps can you take to appreciate rather than appropriate cultures?"
+        },
+        {
+          "term": "Microaggressions",
+          "definition": "Everyday verbal or nonverbal slights or insults, intentional or unintentional, which communicate hostile or negative messages to a person based on a marginalized group they belong to.",
+          "impact": "Microaggressions subtly shape our daily interactions, nurturing an environment of systemic bias and exclusion. \n\nUnchecked, microaggressions can lead to psychological distress and continued systemic discrimination.",
+          "example": "Example #1: In an academic setting, a professor consistently mispronounces a student's name despite repeated corrections. \n\nExample #2: During a social gathering, a person asks a person of Asian descent, \"Where are you really from?\"",
+          "myths": "Myth #1: Microaggressions are just harmless jokes, disregarding their potential to cause harm. \n\nMyth #2: Microaggressions are only committed by people who are overtly prejudiced, ignoring the role of unconscious biases.",
+          "reflection": "Prompt A: Reflect on a time you unknowingly used a microaggression. How would you change your approach now? \n\nPrompt B: Recall when you faced a microaggression. How did you feel? \n\nPrompt C: With your increased awareness of microaggressions, what actions can you take to reduce their presence in your interactions?"
+        },
+        {
+          "term": "Allyship",
+          "definition": "The act of standing in support with marginalized groups, it involves learning about systemic oppression and using one's privilege to take action against such injustice.",
+          "impact": "Allyship fosters an inclusive environment, bridges gaps, and fights against systemic oppression. \n\nTrue allyship requires continuous learning, self-reflection, and taking action even when it is uncomfortable.",
+          "example": "Example #1: Speaking up against discriminatory jokes or remarks made in your social circle. \n\nExample #2: Making space for marginalized voices in spaces where they're underrepresented.",
+          "myths": "Myth #1: Allyship is about saving others, ignoring that it's about supporting and amplifying voices. \n\nMyth #2: Allyship is a static state, neglecting that it's a continuous process of learning and evolving.",
+          "reflection": "Prompt A: Reflect on a time you acted as an ally. What did you learn? \n\nPrompt B: Recall a time when someone stood up as an ally for you. How did it make you feel? \n\nPrompt C: How can you practice allyship in your daily life, ensuring it's not performative but truly supportive?"
+        },
+        {
+          "term": "Social Construct",
+          "definition": "A concept or perception of something based on the collective views developed and maintained by a society, rather than by inherent or natural qualities.",
+          "impact": "Social constructs shape our understanding of the world, influencing our behaviors, interactions, and expectations. \n\nThey can either be helpful for societal organization or be oppressive, depending on how they're employed.",
+          "example": "Example #1: The concept of race has no genetic basis but is a powerful social construct with profound societal implications. \n\nExample #2: The notion of gender roles is a social construct that has dictated the behavior of men and women for ages.",
+          "myths": "Myth #1: Social constructs are universal truths, ignoring their variability across cultures and time. \n\nMyth #2: Social constructs can't be changed, disregarding the potential for societal evolution.",
+          "reflection": "Prompt A: Reflect on a social construct that you've accepted without question. How has it influenced your life? \n\nPrompt B: Recall a time when you challenged a social construct. What prompted you to do so? \n\nPrompt C: How can you actively question and challenge potentially harmful social constructs?"
+        },
+        {
+          "term": "Xenophobia",
+          "definition": "Prejudice, fear or hatred against people from different countries, cultures, or ethnic backgrounds, it is often expressed through discrimination or stereotypes.",
+          "impact": "Xenophobia fosters a hostile environment, leading to discrimination, marginalization, and often violence against those perceived as 'foreign'. \n\nIt breeds division, undermines social cohesion, and hinders the realization of human rights.",
+          "example": "Example #1: A person being treated unfairly at work because they're from a different country. \n\nExample #2: Politicians exploiting xenophobia to stoke fear and gain political support.",
+          "myths": "Myth #1: Xenophobia is a personal issue, not a societal problem, downplaying its systemic roots and consequences. \n\nMyth #2: Xenophobia is a natural response to the unfamiliar, ignoring the fact it's often driven by misinformation and fear-mongering.",
+          "reflection": "Prompt A: Reflect on a time when you witnessed xenophobia. What was your reaction? \n\nPrompt B: Recall an instance where you realized a stereotype or bias you held was rooted in xenophobia. \n\nPrompt C: How can you use education and exposure to different cultures to combat xenophobia in your own sphere of influence?"
+        },
+        {
+          "term": "Marginalized Groups",
+          "definition": "Groups of people systematically disadvantaged and denied access to opportunities, resources, and involvement within society due to their identities or backgrounds.",
+          "impact": "Marginalization breeds inequality, inhibiting the full participation of these groups in societal functions. \n\nIt undermines social cohesion, perpetuates poverty and disadvantages, and can lead to social tension.",
+          "example": "Example #1: People living in poverty often have less access to quality education and healthcare. \n\nExample #2: LGBTQ+ individuals may face discrimination, impacting their mental health and employment opportunities.",
+          "myths": "Myth #1: Marginalization is due to the shortcomings of individuals, not systemic issues, overlooking societal factors. \n\nMyth #2: Everyone has an equal opportunity in modern societies, negating the reality of systemic barriers.",
+          "reflection": "Prompt A: Reflect on a time you were made aware of the marginalization of a certain group. How did it affect your perspective? \n\nPrompt B: Recall an instance where you observed a system that perpetuated the marginalization of a certain group. \n\nPrompt C: How can you contribute to empowering marginalized groups and challenge systems of oppression?"
+        },
+        {
+          "term": "Gender Identity",
+          "definition": "The internal personal sense of one's own gender. It may correlate with assigned sex at birth or can differ from it, encompassing a range beyond the binary of male or female.",
+          "impact": "Recognition of gender identity is critical to personal autonomy and expression. \n\nNon-recognition or disrespect of one's gender identity can lead to discrimination, stigmatization, and mental health issues.",
+          "example": "Example #1: A person assigned female at birth identifies as male and lives as a man. \n\nExample #2: Someone who doesn't strictly identify as male or female may identify as non-binary or genderqueer.",
+          "myths": "Myth #1: Gender identity is a choice or a trend, disregarding that it's a core aspect of an individual's identity. \n\nMyth #2: Gender identity is solely determined by biological sex, ignoring the complexity of gender as a social and psychological concept.",
+          "reflection": "Prompt A: Reflect on the journey of understanding your own gender identity. How has it shaped your life? \n\nPrompt B: Recall a time you learned about a gender identity different from your own. How did it broaden your understanding? \n\nPrompt C: How can you be more supportive and respectful of diverse gender identities in your daily interactions?"
+        },
+        {
+        "term": "Inclusive Language",
+        "definition": "Language that is free from words, phrases, or tones that reflect prejudiced or discriminatory views of particular people or groups.",
+        "impact": "Inclusive language respects and acknowledges all people's experiences and identities, fostering mutual respect and understanding. \n\nOn the other hand, non-inclusive language can perpetuate stereotypes, marginalize individuals, and create unwelcoming environments.",
+        "example": "Example #1: Instead of 'mankind', use 'humankind' to include all genders. \n\nExample #2: Use 'they' as a singular pronoun when someone's gender is not known or when they identify as non-binary.",
+        "myths": "Myth #1: Inclusive language is about being politically correct, ignoring its role in promoting respect and equality. \n\nMyth #2: Inclusive language is unnecessary or overly complicated, disregarding its impact on fostering inclusive communities.",
+        "reflection": "Prompt A: Reflect on a time when non-inclusive language was used around you. How did you react? \n\nPrompt B: Can you recall a time when you switched to using more inclusive language? How did it affect your communication? \n\nPrompt C: How can you actively incorporate more inclusive language in your daily conversations?"
+    },
+    {
+        "term": "Cultural Diversity",
+        "definition": "The existence of a variety of cultural or ethnic groups within a society. It includes different ways of life, beliefs, values, and customs.",
+        "impact": "Cultural diversity enriches societies, encouraging mutual understanding, empathy, and respect among people. \n\nHowever, lack of acceptance can lead to division, conflict, and discrimination.",
+        "example": "Example #1: Festivals celebrated by different cultures in a society illustrate cultural diversity. \n\nExample #2: A workplace employing people from different cultural backgrounds showcases cultural diversity.",
+        "myths": "Myth #1: Cultural diversity leads to societal problems, overlooking its contribution to societal growth and progress. \n\nMyth #2: One culture is superior to others, creating a hierarchy that fosters discrimination.",
+        "reflection": "Prompt A: Reflect on a time when you experienced cultural diversity. How did it shape your understanding? \n\nPrompt B: Think about when your cultural assumptions were challenged by exposure to a different culture. \n\nPrompt C: How can you promote cultural diversity and understanding in your community?"
+    },
+    {
+        "term": "Gender Expression",
+        "definition": "The external display of one's gender, through a combination of dress, demeanor, social behavior, and other factors, generally measured on a scale of masculinity and femininity.",
+        "impact": "Freedom of gender expression allows individuals to be authentic and fosters diverse, inclusive societies. \n\nRestrictions can lead to mental health issues, societal pressure, and discrimination.",
+        "example": "Example #1: A person who identifies as male expresses himself through wearing dresses and makeup. \n\nExample #2: A non-binary individual may choose an androgynous appearance to express their gender identity.",
+        "myths": "Myth #1: Gender expression should align with biological sex, disregarding the complex relationship between gender, identity, and expression. \n\nMyth #2: There are only two ways to express gender: masculine or feminine, ignoring the spectrum of gender expression.",
+        "reflection": "Prompt A: Reflect on how you express your gender. How has it been influenced by societal norms? \n\nPrompt B: Recall a time when you encountered a gender expression different from your own. How did it affect your perceptions? \n\nPrompt C: How can you support others' freedom to express their gender authentically?"
+    },
+    {
+        "term": "Neurodiversity",
+        "definition": "The concept that neurological differences among people should be recognized and respected as a natural form of human diversity.",
+        "impact": "Recognizing neurodiversity promotes acceptance and equality, removing stigmatization and misconceptions. \n\nIgnoring it can lead to discrimination, misunderstanding, and exclusion of those who are neurodivergent.",
+        "example": "Example #1: An autistic person might interact differently in social situations due to their unique neural wiring. \n\nExample #2: Someone with ADHD may require a more dynamic working environment to accommodate their distinct cognitive processing.",
+        "myths": "Myth #1: Neurodivergence is a deficit or disorder, which oversimplifies and devalues the complex realities of neurodivergent individuals. \n\nMyth #2: Neurodivergent individuals are incapable of living 'normal' lives, stigmatizing their abilities and potential.",
+        "reflection": "Prompt A: Reflect on a time you interacted with a neurodivergent individual. How did it challenge or confirm your perceptions? \n\nPrompt B: Recall when you learned about neurodiversity. How has it influenced your understanding of individual differences? \n\nPrompt C: How can you contribute to promoting acceptance and understanding of neurodiversity in your community?"
+    },
+    {
+        "term": "Systemic Discrimination",
+        "definition": "The institutionalized and pervasive inequality that affects certain groups across an entire system, based on characteristics like race, gender, or age.",
+        "impact": "Systemic discrimination perpetuates social inequality and limits opportunities for marginalized groups. \n\nAddressing it requires widespread societal change and deliberate action at all levels.",
+        "example": "Example #1: Unequal school funding systems based on neighborhood property taxes create disparities in educational opportunities. \n\nExample #2: A company consistently promoting men over equally qualified women is an example of systemic discrimination in the workplace.",
+        "myths": "Myth #1: Systemic discrimination doesn't exist anymore, ignoring persistent inequalities across societal systems. \n\nMyth #2: It's solely the responsibility of marginalized groups to combat systemic discrimination, disregarding the need for widespread societal action.",
+        "reflection": "Prompt A: Reflect on an instance when you recognized systemic discrimination in a system or institution. How did it make you feel? \n\nPrompt B: Recall when you actively took a stand against systemic discrimination. What did you learn? \n\nPrompt C: What steps can you take to challenge and address systemic discrimination in your own environment?"
+    },
+    {
+        "term": "Equal Opportunity",
+        "definition": "The principle that all individuals should have an equal chance to compete and participate in education, employment, and government, regardless of their characteristics.",
+        "impact": "Equal opportunity fosters fairness, inclusivity, and social cohesion. \n\nWithout it, individuals face discrimination, exclusion, and limited access to resources and opportunities.",
+        "example": "Example #1: Equal employment opportunity laws prohibit job discrimination. \n\nExample #2: A college provides scholarships to students from various backgrounds to ensure equal access to education.",
+        "myths": "Myth #1: Equal opportunity means equal outcomes, misunderstanding that it aims for fair competition, not guaranteed results. \n\nMyth #2: We already have equal opportunity in our society, disregarding the persistent barriers many individuals face.",
+        "reflection": "Prompt A: Reflect on a situation where you saw equal opportunity in action. How did it affect the outcome? \n\nPrompt B: Think about a time when equal opportunity was absent. What was the impact? \n\nPrompt C: How can you promote and uphold the principle of equal opportunity in your sphere of influence?"
+    },
+    {
+        "term": "Affirmative Action",
+        "definition": "A policy favoring individuals belonging to groups historically excluded from certain areas of social life; a strategy to counteract systemic discrimination.",
+        "impact": "Affirmative action creates opportunities for marginalized groups, promoting diversity and inclusion. \n\nHowever, it can spur debates over fairness and reverse discrimination.",
+        "example": "Example #1: A university may consider racial background during admissions to ensure a diverse student body. \n\nExample #2: A company might prioritize hiring women for leadership roles to balance gender representation.",
+        "myths": "Myth #1: Affirmative action results in unqualified individuals benefiting at the expense of more qualified ones, overlooking its intention to level the playing field. \n\nMyth #2: Affirmative action is reverse discrimination, misinterpreting it as reparation rather than an equalizer.",
+        "reflection": "Prompt A: Reflect on a situation where affirmative action made a noticeable impact. What were the positive/negative outcomes? \n\nPrompt B: Recall a debate or discussion about affirmative action. What were the main points of contention? \n\nPrompt C: What actions can you take to support or improve affirmative action measures in your community?"
+    },
+    {
+        "term": "Unconscious Bias",
+        "definition": "Subconscious beliefs or attitudes that influence our understanding, actions, and decisions, often leading to prejudiced behavior.",
+        "impact": "Unconscious bias can unconsciously influence decisions, perpetuating inequality and exclusion. \n\nAddressing it involves continuous self-reflection and education.",
+        "example": "Example #1: An employer unknowingly favors a candidate who graduated from their alma mater. \n\nExample #2: A teacher unconsciously expects better performance from boys in a math class, based on gender stereotypes.",
+        "myths": "Myth #1: Unconscious bias doesn't affect decision-making, underestimating its pervasive influence. \n\nMyth #2: Only 'bad' people have unconscious biases, ignoring the fact that everyone possesses them due to our social conditioning.",
+        "reflection": "Prompt A: Reflect on an occasion when your unconscious bias might have influenced your actions. How did you realize this bias? \n\nPrompt B: Think about a situation where you may have been affected by someone else's unconscious bias. How did you respond? \n\nPrompt C: How can you continuously educate yourself and others about unconscious bias and its implications?"
+    },
+    {
+        "term": "Sexism",
+        "definition": "Prejudice or discrimination based on a person's sex or gender, often manifesting in stereotypes and social roles that limit opportunities.",
+        "impact": "Sexism hampers equality, promotes harmful stereotypes, and creates hostile environments. \n\nConfronting it requires widespread change in societal attitudes and structures.",
+        "example": "Example #1: A female employee is passed over for promotion due to a misconception that women are less committed to their careers. \n\nExample #2: A man is ridiculed for expressing his emotions, perpetuating harmful gender norms.",
+        "myths": "Myth #1: Sexism only affects women, disregarding the reality that it can negatively impact all genders. \n\nMyth #2: Sexism is no longer a significant issue, overlooking its subtle yet pervasive presence in modern society.",
+        "reflection": "Prompt A: Reflect on a time you witnessed or experienced sexism. How did it impact you or those involved? \n\nPrompt B: Recall a conversation about sexism. What viewpoints were presented? \n\nPrompt C: How can you contribute to the fight against sexism in your daily life and interactions?"
+    },
+    {
+        "term": "Privilege",
+        "definition": "Unearned advantages or rights granted to people based on their social group membership, such as race, gender, or socio-economic status.",
+        "impact": "Privilege can perpetuate disparities in wealth, power, and social status. Recognizing one's privilege is crucial for creating an equitable society.\n\nUnchecked privilege can lead to systemic biases and unintended exclusion of underrepresented groups.",
+        "example": "Example #1: A person never having to worry about being followed in a store due to their race.\n\nExample #2: A person can easily find housing that accommodates their physical needs without barriers.",
+        "myths": "Myth #1: Privilege implies that an individual has not faced hardships, neglecting the systemic advantages certain groups have. \n\nMyth #2: All people from privileged groups are wealthy, overlooking the fact that privilege can take many forms.",
+        "reflection": "Prompt A: Reflect on a time when you recognized your privilege. How did it make you feel? \n\nPrompt B: Have you ever had a conversation with someone who couldn’t acknowledge their privilege? How did it make you feel? \n\nPrompt C: How can you use your privilege to help others who don't have the same advantages?"
+    },
+    {
+        "term": "Power Dynamics",
+        "definition": "The ways in which power is distributed and manifests within relationships, communities, or societal structures, often creating imbalances.",
+        "impact": "Power dynamics shape social interactions and systems, influencing who gets heard, respected, and prioritized.\n\nUnchecked power dynamics can foster inequality and abuse of power.",
+        "example": "Example #1: A manager making decisions without consulting team members, creating a top-down dynamic.\n\nExample #2: In a classroom, a teacher being the main speaker while students listen passively.",
+        "myths": "Myth #1: Power dynamics are always negative, disregarding situations where they are necessary and beneficial. \n\nMyth #2: Power dynamics do not exist in egalitarian spaces, ignoring subtle and unconscious power imbalances.",
+        "reflection": "Prompt A: Reflect on a time you felt powerless. What caused that feeling? \n\nPrompt B: Can you think of a situation where power dynamics shifted? What prompted the change? \n\nPrompt C: How can you contribute to creating more balanced power dynamics in your environment?"
+    },
+    {
+        "term": "Stereotype",
+        "definition": "Widely held but fixed and oversimplified image or idea of a particular type of person or thing, often based on assumptions.",
+        "impact": "Stereotypes can limit understanding, fuel prejudice, and perpetuate bias. Breaking stereotypes requires conscious effort and exposure to diverse experiences.\n\nThey can limit personal development, restrict social roles, and perpetuate discrimination.",
+        "example": "Example #1: The assumption that women are nurturing and not naturally inclined to be leaders.\n\nExample #2: The stereotype that Asian individuals are universally good at mathematics.",
+        "myths": "Myth #1: Stereotypes are always negative, ignoring that even positive stereotypes can be harmful and limiting. \n\nMyth #2: Stereotypes are generally true, overlooking their oversimplification and potential harm.",
+        "reflection": "Prompt A: Reflect on a time you held a stereotype that was proven wrong. How did it affect your perspective? \n\nPrompt B: Can you recall when you were stereotyped? How did it make you feel? \n\nPrompt C: What steps can you take to challenge and break down stereotypes in your thinking and behavior?"
+    },
+    {
+        "term": "Bias Incident",
+        "definition": "An action taken intentionally or unintentionally, that is based on or encourages bias and stereotypes due to characteristics such as race, religion, sexual orientation, etc.",
+        "impact": "Bias incidents can lead to an atmosphere of fear and hostility, disrupting community bonds and individual sense of safety. \n\nThese incidents contribute to systemic biases and inequalities by normalizing prejudice behavior.",
+        "example": "Example #1: A joke made about someone's religion, belittling their belief system.\n\nExample #2: Using offensive slurs to refer to a particular racial or ethnic group.",
+        "myths": "Myth #1: Bias incidents are always overt and intentional, overlooking microaggressions and unintentional slights. \n\nMyth #2: Bias incidents do not affect people who are not directly targeted, disregarding the wider community impact.",
+        "reflection": "Prompt A: Reflect on a time when you witnessed a bias incident. How did it affect you and others around you? \n\nPrompt B: How did you respond? How would you respond differently now? \n\nPrompt C: How can you help foster an environment that discourages bias incidents?"
+    },
+    {
+        "term": "Diversity Hiring",
+        "definition": "Hiring practices designed to increase workforce diversity by taking into consideration factors such as race, gender, sexual orientation, age, and disability status.",
+        "impact": "Diversity hiring can lead to greater innovation, better decision-making, and higher economic growth.\n\n However, it needs to be complemented by inclusive practices to avoid tokenism and to truly benefit from diverse perspectives.",
+        "example": "Example #1: A company targets underrepresented groups in their recruitment ads.\n\nExample #2: A business provides internships and mentorship programs for marginalized groups.",
+        "myths": "Myth #1: Diversity hiring means lowering standards, disregarding the aim to eliminate biases in the recruitment process.\n\nMyth #2: Diversity hiring is only about race and gender, overlooking other forms of diversity such as age, socio-economic status, disability, etc.",
+        "reflection": "Prompt A: Reflect on a time when you were part of a diverse team. How did it impact the group's performance and dynamics?\n\nPrompt B: Have you experienced or seen bias in hiring practices? How did it affect you or others?\n\nPrompt C: How can you advocate for diversity hiring in your workplace or community?"
+    },
+    {
+        "term": "Wage Gap",
+        "definition": "The average difference in pay between groups, most commonly discussed in terms of gender, race, and ethnicity.",
+        "impact": "The wage gap perpetuates economic inequality, affecting individuals' quality of life and financial security. It also reflects systemic discrimination in workplaces.\n\nClosing the wage gap is essential for ensuring economic justice and equality.",
+        "example": "Example #1: On average, women earning less than men for performing the same job.\n\nExample #2: People of color receiving lower salaries compared to their white counterparts in similar roles.",
+        "myths": "Myth #1: The wage gap is a result of personal choices, ignoring systemic factors like occupational segregation and discrimination.\n\nMyth #2: The wage gap is a myth, dismissing substantial empirical evidence.",
+        "reflection": "Prompt A: Reflect on how wage gaps can affect individuals' lives beyond just their finances.\n\nPrompt B: Have you witnessed wage discrimination in your work environment? How did it affect workplace dynamics?\n\nPrompt C: What actions can you take to raise awareness and fight against wage gaps?"
+    },
+    {
+        "term": "Racial Equity",
+        "definition": "The condition where one's racial identity no longer influences their socio-economic outcomes, providing everyone with the opportunities they need to thrive.",
+        "impact": "Achieving racial equity would eliminate disparities in health, education, housing, and income. It creates a society that values all individuals and their potential. \n\nHowever, achieving racial equity requires understanding and addressing systemic racism, which is deeply entrenched in many institutions.",
+        "example": "Example #1: In a school system where resources are distributed based on the needs of each student, not uniformly. \n\nExample #2: In a healthcare setting where treatment is provided based on individual health needs rather than assumptions based on race.",
+        "myths": "Myth #1: Racial equity means treating everyone the same, overlooking the need for unique strategies to dismantle racial disparities.\n\nMyth #2: Racial equity can be achieved merely by changing individual attitudes, ignoring systemic and institutional racism.",
+        "reflection": "Prompt A: Reflect on the presence or absence of racial equity in your community. How does it impact people of different racial backgrounds? \n\nPrompt B: Can you recall instances where you observed racial inequity? How did it make you feel?\n\nPrompt C: What actions can you take to promote racial equity in your community?"
+    },
+    {
+        "term": "Inclusive Environment",
+        "definition": "An environment where everyone, regardless of their background or identity, feels valued, respected, and able to fully participate.",
+        "impact": "Inclusive environments foster greater creativity, collaboration, and wellbeing. They embrace diversity, ensuring everyone's perspectives are heard and valued. \n\nCreating an inclusive environment requires ongoing efforts to identify and eliminate barriers to inclusion.",
+        "example": "Example #1: In a classroom where educators use inclusive language and teach materials that represent diverse experiences. \n\nExample #2: In a workplace that values flexible work arrangements to accommodate various life circumstances.",
+        "myths": "Myth #1: Inclusion is just about representation, overlooking the importance of fostering an environment where diverse individuals are actively valued and included.\n\nMyth #2: Inclusive environments happen naturally, ignoring the need for intentional and ongoing efforts.",
+        "reflection": "Prompt A: Reflect on an environment where you felt included. What factors contributed to your feeling of inclusion?\n\nPrompt B: Recall a time when you felt excluded. How could the situation have been improved?\n\nPrompt C: What actions can you take to contribute to a more inclusive environment?"
+    },
+    {
+        "term": "Systemic Discrimination",
+        "definition": "Prejudices or practices built into societal institutions resulting in unfair advantages for some groups and disadvantages for others.",
+        "impact": "Systemic discrimination results in pervasive disparities in areas such as employment, housing, and education. It perpetuates inequality and hampers social progress. \n\nConfronting systemic discrimination requires both systemic changes and individual awareness and action.",
+        "example": "Example #1: Lending institutions historically denying mortgages to people of color, leading to housing segregation. \n\nExample #2: Women consistently earning less than men in identical job roles, creating a wage gap.",
+        "myths": "Myth #1: Systemic discrimination is a thing of the past, ignoring its subtle yet potent presence today.\n\nMyth #2: Systemic discrimination can be addressed merely by individual actions, overlooking the need for institutional change.",
+        "reflection": "Prompt A: Reflect on how systemic discrimination might have influenced your life. \n\nPrompt B: Can you identify systemic discrimination in your community or workplace?\n\nPrompt C: How can you advocate for changes to confront systemic discrimination?"
+    },
+    {
+        "term": "Restorative Justice",
+        "definition": "A system of criminal justice which focuses on the rehabilitation of offenders through reconciliation with victims and the community at large.",
+        "impact": "Restorative justice provides healing, resolution, and often closure for victims while offering offenders a chance to make amends. It encourages empathy and understanding. \n\nHowever, its application is nuanced and requires trained facilitators to guide the process effectively.",
+        "example": "Example #1: A victim and offender participating in a mediated dialogue to understand the crime's impact. \n\nExample #2: Community service or compensation directly benefiting the victim or the community harmed by the offense.",
+        "myths": "Myth #1: Restorative justice is soft on crime, ignoring its focus on accountability and personal growth.\n\nMyth #2: Restorative justice can replace the entire criminal justice system, which oversimplifies its role within the broader context.",
+        "reflection": "Prompt A: Reflect on how restorative justice differs from traditional punitive approaches. How might these differences impact the involved parties? \n\nPrompt B: Can you think of situations where restorative justice might be more effective?\n\nPrompt C: How can you apply the principles of restorative justice in your daily life?"
+    },
+    {
+        "term": "Glass Ceiling",
+        "definition": "An unofficial barrier to advancement in a profession, especially affecting women and members of minorities.",
+        "impact": "The glass ceiling represents systemic obstacles inhibiting the career advancement of underrepresented groups, contributing to imbalanced power dynamics and inequity. \n\nBreaking through these barriers requires institutional changes and strong advocacy for equal opportunity and diversity.",
+        "example": "Example #1: Despite equal qualifications and performance, a female employee is consistently overlooked for promotions, which are instead given to her male colleagues. \n\nExample #2: A person of color is not considered for an executive role due to unfounded biases and stereotypes.",
+        "myths": "Myth #1: The glass ceiling is no longer an issue due to progress in equality rights, disregarding the continuing disparities in leadership roles. \n\nMyth #2: The glass ceiling is purely a result of individual actions or choices, overlooking systemic factors.",
+        "reflection": "Prompt A: Reflect on how the glass ceiling might have affected your or someone else's professional journey. \n\nPrompt B: Can you identify examples of the glass ceiling in your organization or industry? \n\nPrompt C: How can you contribute to breaking the glass ceiling?"
+    },
+    {
+        "term": "Social Mobility",
+        "definition": "The ability of an individual or family to move up or down the social and economic ladder within a society.",
+        "impact": "Social mobility is a measure of a society's fairness and equality. Higher social mobility implies greater access to opportunities and fair distribution of resources. \n\nHowever, systemic barriers often hinder social mobility, leading to entrenched social and economic divides.",
+        "example": "Example #1: An individual from a low-income background obtaining higher education and securing a high-paying job. \n\nExample #2: A family facing economic decline due to job loss, illustrating downward social mobility.",
+        "myths": "Myth #1: Social mobility is purely dependent on an individual's hard work, disregarding the impact of systemic factors and initial socioeconomic status. \n\nMyth #2: All societies have the same level of social mobility, ignoring the variations in social structures and policies.",
+        "reflection": "Prompt A: Reflect on how social mobility has influenced your life. \n\nPrompt B: Can you identify factors that contribute to or hinder social mobility in your society? \n\nPrompt C: What changes would enhance social mobility?"
+    },
+    {
+        "term": "Implicit Bias",
+        "definition": "Unconscious attitudes or stereotypes that affect our understanding, actions, and decisions in an unconscious manner.",
+        "impact": "Implicit bias can subtly affect our perceptions and behavior, potentially leading to unfairness and discrimination. Recognizing and challenging these biases is vital for fostering equality and inclusivity. \n\nHowever, overcoming implicit bias requires sustained effort and introspection, as these biases are deeply ingrained and often unconscious.",
+        "example": "Example #1: A hiring manager subconsciously preferring a candidate of the same race, leading to biased hiring decisions. \n\nExample #2: A teacher unknowingly giving more attention to male students in a STEM class due to gender-based stereotypes.",
+        "myths": "Myth #1: Only 'bad' people have implicit biases, ignoring that they are pervasive and present in all individuals. \n\nMyth #2: Implicit biases are impossible to change, disregarding the power of awareness and conscious efforts to challenge these biases.",
+        "reflection": "Prompt A: Reflect on a situation where your implicit bias may have influenced your actions. \n\nPrompt B: Can you recognize the sources of your implicit biases? \n\nPrompt C: What strategies can you employ to challenge and reduce your implicit biases?"
+    },
+    {
+        "term": "Intersectionality",
+        "definition": "The interconnected nature of social categorizations such as race, class, and gender, creating overlapping systems of discrimination or disadvantage.",
+        "impact": "Intersectionality highlights the complex, multifaceted nature of individual identities and experiences. It urges us to consider the compounded impact of multiple forms of discrimination. \n\nEmbracing intersectionality in our perspectives allows for more inclusive understanding and advocacy for social justice.",
+        "example": "Example #1: A black woman experiencing both sexism and racism in her workplace, exemplifying the intersection of gender and racial discrimination. \n\nExample #2: An LGBTQ+ individual with a disability facing unique challenges due to the intersection of their sexual orientation and disability.",
+        "myths": "Myth #1: Intersectionality complicates social issues, ignoring that it simply acknowledges the existing complexity of human experience. \n\nMyth #2: Intersectionality only applies to those with multiple marginalized identities, overlooking its broad relevance to all human experiences.",
+        "reflection": "Prompt A: Reflect on how intersectionality has influenced your experiences or those of others around you. \n\nPrompt B: Can you identify intersections of different social categories in your life or community? \n\nPrompt C: How can you incorporate an intersectional approach into your understanding and advocacy for social justice?"
+    },
+    {
+        "term": "LGBTQ+",
+        "definition": "An acronym encompassing individuals who identify as lesbian, gay, bisexual, transgender, and queer, along with other identities such as intersex, asexual, and more.",
+        "impact": "Understanding and respecting LGBTQ+ identities promotes a more inclusive and accepting society. Recognizing the unique challenges faced by this community is crucial for social equity. \n\nHowever, ongoing prejudice, discrimination, and a lack of legal protections contribute to disparities in mental health, housing, employment, and healthcare for LGBTQ+ individuals.",
+        "example": "Example #1: A gay employee faces discrimination at work, affecting their job satisfaction and mental health. \n\nExample #2: A transgender individual is denied healthcare services due to their gender identity, illustrating a serious violation of their rights.",
+        "myths": "Myth #1: Being LGBTQ+ is a 'choice', disregarding the fact that these identities are inherent aspects of one's self. \n\nMyth #2: All LGBTQ+ people share the same experiences, ignoring the diversity within the community.",
+        "reflection": "Prompt A: Reflect on your understanding and acceptance of different LGBTQ+ identities. \n\nPrompt B: Think about the challenges faced by the LGBTQ+ community in your society. \n\nPrompt C: How can you contribute to creating a more inclusive and respectful environment for LGBTQ+ individuals?"
+    },
+    {
+        "term": "Diversity Training",
+        "definition": "Educational programs intended to enhance participants' understanding of diversity and equip them with skills to manage and value diversity in their environments.",
+        "impact": "Diversity training can foster more inclusive, accepting, and productive environments by promoting understanding and reducing bias. However, effectiveness varies based on the quality and approach of the training. \n\nWhile well-conducted training can promote empathy and respect, poorly executed training may reinforce stereotypes or create backlash.",
+        "example": "Example #1: A corporation hosts a diversity training workshop to help employees understand different cultures and improve team cohesion. \n\nExample #2: A university conducts a diversity training for faculty to address unconscious bias in academic settings.",
+        "myths": "Myth #1: A single diversity training session can eliminate all biases and discrimination, oversimplifying the long-term effort needed. \n\nMyth #2: Diversity training always improves workplace culture, disregarding potential pitfalls of poorly executed training.",
+        "reflection": "Prompt A: Reflect on any diversity training you've received. Was it effective? Why or why not? \n\nPrompt B: How do you think diversity training can be improved? \n\nPrompt C: How can you personally contribute to promoting diversity and inclusivity in your environment?"
+    },
+    {
+        "term": "Stereotype Threat",
+        "definition": "The fear of confirming negative stereotypes about one's social group, which can lead to reduced performance and a negative self-perception.",
+        "impact": "Stereotype threat can limit individuals' potential, causing self-doubt and stress. It has implications in education, employment, and social contexts. \n\nBeyond individuals, stereotype threat perpetuates social inequality by influencing group members' performance and opportunities.",
+        "example": "Example #1: A woman in a predominantly male tech company may underperform due to the stereotype that women are not as competent in tech fields. \n\nExample #2: An elderly employee may avoid learning new technology due to fear of confirming the stereotype of older people being technologically challenged.",
+        "myths": "Myth #1: Stereotype threat only affects those with low self-esteem or poor skills, ignoring that it affects anyone aware of the stereotype. \n\nMyth #2: Stereotype threat is just an excuse for poor performance, disregarding the extensive research validating its effects.",
+        "reflection": "Prompt A: Reflect on a time you may have experienced stereotype threat. How did it affect you? \n\nPrompt B: Consider how stereotypes may unconsciously affect your behavior towards others. \n\nPrompt C: How can you help challenge and change stereotypes in your community?"
+    },
+    {
+        "term": "Race",
+        "definition": "A social construct referring to groups of people who share certain physical characteristics, often associated with shared ancestry, culture, history, and experiences.",
+        "impact": "Concepts of race can impact individuals' life opportunities, experiences, and relationships, shaping social structures and inequalities. \n\nWhile race has no inherent biological basis, the societal implications are profound, affecting areas like education, healthcare, and law enforcement.",
+        "example": "Example #1: Certain diseases disproportionately affect specific racial groups due to social and environmental factors. \n\nExample #2: In some countries, race can significantly affect individuals' job opportunities and income.",
+        "myths": "Myth #1: Race is a biological fact, ignoring that it's a social construct with no scientific consensus. \n\nMyth #2: Racial disparities are due to individual behaviors, not systemic racism, downplaying the impact of societal structures.",
+        "reflection": "Prompt A: Reflect on how your racial identity has shaped your experiences and perspectives. \n\nPrompt B: Consider how race affects your interactions with others. \n\nPrompt C: How can you help challenge racial biases and work towards equity?"
+    },
+    {
+        "term": "Ethnicity",
+        "definition": "The categorization of individuals based on shared cultural characteristics such as language, religion, traditions, and ancestral origin.",
+        "impact": "Ethnicity shapes an individual's identity, experiences, and worldview. It can affect access to opportunities, treatment in society, and relationship dynamics. \n\nMisunderstandings and biases about ethnicities can lead to discrimination, conflicts, and exclusion.",
+        "example": "Example #1: In multi-ethnic societies, certain ethnic groups may face discrimination in housing or employment due to stereotypes. \n\nExample #2: Ethnic minority languages may not be taught in schools, leading to cultural erasure and disadvantages in education.",
+        "myths": "Myth #1: All members of an ethnic group share the exact same cultural traits, which oversimplifies the complexity of cultural identity. \n\nMyth #2: Ethnicity determines an individual's abilities or traits, overlooking personal differences and experiences.",
+        "reflection": "Prompt A: Reflect on how your ethnicity has influenced your identity and experiences. \n\nPrompt B: Consider a time you may have made assumptions based on someone's ethnicity. \n\nPrompt C: How can you learn about and respect diverse ethnic cultures in your community?"
+    },
+    {
+        "term": "Disparity",
+        "definition": "A significant difference or inequality between groups, often seen in contexts such as income, education, health, and social opportunities.",
+        "impact": "Disparities contribute to social stratification and can perpetuate cycles of poverty and disadvantage. They create a lack of social cohesion and fairness. \n\nThe existence of disparities raises questions about social justice, equality, and the effectiveness of social policies and systems.",
+        "example": "Example #1: Income disparities between genders often reflect unequal opportunities and societal biases. \n\nExample #2: Health disparities in marginalized communities can indicate inadequate access to healthcare or living in areas with poor environmental conditions.",
+        "myths": "Myth #1: Disparities solely reflect individual efforts or abilities, overlooking systemic factors. \n\nMyth #2: Reducing disparities means giving preferential treatment to certain groups, when it's about leveling the playing field.",
+        "reflection": "Prompt A: Reflect on a disparity you've noticed in your community. How does it affect people's lives? \n\nPrompt B: Consider how social policies might contribute to or mitigate disparities. \n\nPrompt C: How can you advocate for reducing disparities in your context?"
+    },
+    {
+        "term": "Cultural Competency",
+        "definition": "The ability to interact effectively with people of different cultures, understanding, and appreciating their values, practices, and beliefs.",
+        "impact": "Cultural competency fosters mutual respect, better communication, and increased understanding between diverse groups. It mitigates cultural misunderstandings that could lead to conflict. \n\nHowever, a lack of cultural competency may lead to miscommunications, reinforce stereotypes, and perpetuate inequalities.",
+        "example": "Example #1: In healthcare, cultural competency can help practitioners provide appropriate care by acknowledging cultural influences on health beliefs. \n\nExample #2: Businesses with cultural competency can effectively serve diverse customer bases and maintain inclusive workplaces.",
+        "myths": "Myth #1: Cultural competency implies learning everything about every culture, which is impossible and reduces cultures to static sets of facts. \n\nMyth #2: You don't need cultural competency if you don't interact with different cultures often, but everyone is part of a culture.",
+        "reflection": "Prompt A: Reflect on a time when cultural competency might have helped you understand a situation better. \n\nPrompt B: How has your own culture shaped your perspectives? \n\nPrompt C: Consider ways you can improve your cultural competency."
+    },
+    {
+        "term": "Empowerment",
+        "definition": "The process of gaining freedom, autonomy, and the ability to influence one's environment and life circumstances, often through gaining access to resources or power.",
+        "impact": "Empowerment promotes self-confidence, self-efficacy, and the ability to assert rights and influence societal structures. It's key for social change and reducing inequalities. \n\nHowever, if not handled inclusively, empowerment efforts can overlook marginalized individuals within groups.",
+        "example": "Example #1: Programs that support financial literacy for low-income families can empower them to break cycles of poverty. \n\nExample #2: Empowerment in workplaces might involve supporting employees in decision-making processes.",
+        "myths": "Myth #1: Empowerment is about power over others, when it's about power to make decisions and influence. \n\nMyth #2: Empowerment can only come from external interventions, but it can also come from within individuals or communities.",
+        "reflection": "Prompt A: Reflect on a time when you felt empowered. What enabled that feeling? \n\nPrompt B: How can empowerment look different for different people? \n\nPrompt C: How can you contribute to empowering others in your community or workplace?"
+    },
+    {
+        "term": "Representation",
+        "definition": "The presence of individuals from diverse groups in mainstream media, politics, and other areas, ensuring diverse voices are heard and recognized.",
+        "impact": "Representation ensures all voices contribute to societal dialogue, enhancing democratic processes and cultural richness. It helps reduce stereotypes and improve understanding across groups. \n\nLack of representation can lead to marginalization and perpetuation of biases and stereotypes.",
+        "example": "Example #1: A film that features a diverse cast and crew can provide representation for various communities, promoting understanding and visibility. \n\nExample #2: Electing officials from diverse backgrounds can help represent different constituents' needs and perspectives.",
+        "myths": "Myth #1: Representation is about filling quotas, when it is really about acknowledging and respecting diversity. \n\nMyth #2: Representation alone solves systemic discrimination, but it should be part of broader systemic change efforts.",
+        "reflection": "Prompt A: Reflect on a time you saw yourself represented in media or politics. How did it feel? \n\nPrompt B: Consider a situation where more representation could have made a difference. \n\nPrompt C: What actions can you take to support representation in your community or industry?"
+    },
+    {
+        "term": "Cultural Sensitivity",
+        "definition": "Awareness and respectful consideration of cultural differences, including values, practices, communication styles, norms, and worldviews.",
+        "impact": "Cultural sensitivity promotes mutual respect, reduces prejudice, and enhances communication and cooperation among diverse groups. \n\nHowever, a lack of cultural sensitivity can lead to misunderstandings, hurt feelings, and divisive behavior.",
+        "example": "Example #1: By using inclusive language and avoiding assumptions, a person can demonstrate cultural sensitivity in interactions with diverse individuals. \n\nExample #2: Companies can show cultural sensitivity by recognizing and accommodating a variety of cultural holidays and practices.",
+        "myths": "Myth #1: Cultural sensitivity means avoiding all conversations about culture, when it means engaging with respect and open-mindedness. \n\nMyth #2: Cultural sensitivity results in 'walking on eggshells', but it should promote honest and respectful dialogue.",
+        "reflection": "Prompt A: Reflect on a time when cultural sensitivity was or could have been beneficial in your interactions. \n\nPrompt B: Consider a cultural practice different from yours. How can you approach it with sensitivity? \n\nPrompt C: How can you cultivate cultural sensitivity in your everyday life?"
+    },
+    {
+        "term": "Accessibility",
+        "definition": "Designing environments, products, or services so they can be accessed and used by all people, regardless of physical ability or condition.",
+        "impact": "Accessibility allows everyone to participate fully in society, fostering equality and inclusivity. \n\nThe absence of it can marginalize people with disabilities, restrict their opportunities and reinforce inequality.",
+        "example": "Example #1: Ramps in public buildings are an example of physical accessibility. \n\nExample #2: Website design that includes alternative text for images improves digital accessibility for visually impaired users.",
+        "myths": "Myth #1: Accessibility benefits only people with disabilities when it actually improves usability for everyone. \n\nMyth #2: Making everything accessible is too expensive, but many improvements are affordable and some even save costs.",
+        "reflection": "Prompt A: Reflect on a situation where you appreciated an accessibility feature, or where the lack of one created difficulty. \n\nPrompt B: Consider a common environment or product. How could accessibility be improved? \n\nPrompt C: What actions can you take to advocate for improved accessibility in your community or workplace?"
+    },
+    {
+        "term": "Ageism",
+        "definition": "Prejudice or discrimination on the basis of a person's age.",
+        "impact": "Ageism can limit opportunities, undermine self-confidence, and lead to social isolation for older adults. \n\nIt can also affect younger people who are dismissed as inexperienced, impacting self-esteem and career prospects.",
+        "example": "Example #1: A company only hiring 'energetic young people' for certain roles is an example of ageism. \n\nExample #2: Telling a young employee they are 'too young to understand' dismisses their potential contribution.",
+        "myths": "Myth #1: Ageism only affects older people, when it can impact anyone. \n\nMyth #2: Ageism is harmless, yet it can significantly impact individuals and society.",
+        "reflection": "Prompt A: Reflect on a time you witnessed ageism. How did it affect the person involved? \n\nPrompt B: Think about how societal narratives around age have influenced your perception of yourself or others. \n\nPrompt C: What actions can you take to challenge ageism in your community or workplace?"
+    },
+    {
+        "term": "Systemic Racism",
+        "definition": "Institutional practices or policies that result in the differential access to goods, services, and opportunities based on race.",
+        "impact": "Systemic racism perpetuates disparities in wealth, education, and social status among racial groups. \n\nIt is often deeply ingrained in societal structures, making it challenging to address and change.",
+        "example": "Example #1: Racial profiling in law enforcement is an example of systemic racism. \n\nExample #2: The disproportionate rate of school expulsions for Black students in comparison to their white peers is also an instance of systemic racism.",
+        "myths": "Myth #1: Racism is only about individual prejudice, but systemic racism involves institutional structures. \n\nMyth #2: Equal opportunity laws have eliminated systemic racism, yet disparities persist due to the historical and ongoing effects.",
+        "reflection": "Prompt A: Reflect on a time you encountered an instance of systemic racism. What was your response? \n\nPrompt B: Think about how systemic racism has influenced societal structures. How could these be changed for the better? \n\nPrompt C: What actions can you take to confront systemic racism in your community or workplace?"
+    },
+    {
+        "term": "Microinequities",
+        "definition": "Subtle, often unconscious, messages that devalue, discourage and impair workplace performance.",
+        "impact": "Microinequities can subtly enforce a culture of exclusion and bias, and over time they can significantly impact an individual's job satisfaction, performance and opportunities. \n\nThey reinforce power dynamics and can lead to less diverse and inclusive workplaces.",
+        "example": "Example #1: Frequently interrupting or ignoring a colleague in meetings is a microinequity. \n\nExample #2: A manager providing less constructive feedback to certain employees, hindering their professional growth.",
+        "myths": "Myth #1: Microinequities are harmless because they are minor, but they can accumulate to have a significant impact. \n\nMyth #2: Microinequities are always intentional, yet they can often be unconscious biases in action.",
+        "reflection": "Prompt A: Reflect on a time you witnessed or experienced microinequities. How did it impact you or others? \n\nPrompt B: Consider how your behavior might inadvertently contribute to microinequities. \n\nPrompt C: What actions can you take to recognize and reduce microinequities in your daily interactions?"
+    },
+    {
+        "term": "Homophobia",
+        "definition": "An array of negative attitudes, feelings, or actions against homosexuality or people perceived as being gay.",
+        "impact": "Homophobia contributes to the marginalization and discrimination of the LGBTQ+ community, leading to negative health and societal outcomes. \n\nIt perpetuates stereotypes and can result in unequal rights, harassment, and violence.",
+        "example": "Example #1: Using derogatory terms towards someone because of their sexual orientation. \n\nExample #2: A company not providing same-sex partner benefits.",
+        "myths": "Myth #1: Homophobia only exists in overt actions or language, but it can be subtly present in everyday situations. \n\nMyth #2: Homophobia is only enacted by straight people, but internalized homophobia can also occur within the LGBTQ+ community.",
+        "reflection": "Prompt A: Reflect on a time when you witnessed an act of homophobia. How did it make you feel? \n\nPrompt B: Consider your attitudes towards the LGBTQ+ community. Are there any biases you need to address? \n\nPrompt C: What steps can you take to challenge homophobia in your everyday life?"
+    },
+    {
+        "term": "Transphobia",
+        "definition": "The fear, hatred, disbelief, or mistrust of people who are transgender, thought to be transgender, or whose gender expression doesn’t conform to traditional gender roles.",
+        "impact": "Transphobia leads to high rates of violence, discrimination, and stigma against transgender individuals. \n\nIt restricts their rights, access to healthcare, housing, and employment, severely affecting their quality of life.",
+        "example": "Example #1: Refusing to use a person's chosen name and pronouns. \n\nExample #2: Policies that prevent transgender individuals from accessing appropriate public bathrooms.",
+        "myths": "Myth #1: Gender is binary and biologically determined, but it's a complex interplay of biology, identity, and culture. \n\nMyth #2: Transgender people are deceiving others, but they are expressing their true identities.",
+        "reflection": "Prompt A: Think of a situation where you saw or experienced transphobia. How did you react? \n\nPrompt B: Reflect on your understanding of gender identity and expression. Are there any misconceptions you need to unlearn? \n\nPrompt C: How can you contribute to creating a more inclusive and understanding environment for transgender people?"
+    },
+    {
+        "term": "Inclusive Leadership",
+        "definition": "Leadership that ensures everyone in a team or organization feels valued, heard, and empowered, and that their contributions matter.",
+        "impact": "Inclusive leadership fosters innovation and creativity, as diverse perspectives are welcomed and encouraged. \n\nIt also improves employee retention and satisfaction as everyone feels part of the team's success.",
+        "example": "Example #1: A manager who encourages all team members to voice their ideas during meetings. \n\nExample #2: An executive who ensures company policies are inclusive and promote diversity.",
+        "myths": "Myth #1: Inclusive leadership only benefits marginalized groups. However, it fosters a better work environment for everyone. \n\nMyth #2: It is achieved once diversity quotas are met. However, it requires a continuous effort to foster inclusivity.",
+        "reflection": "Prompt A: Think of a leader who made you feel included. What did they do that made you feel that way? \n\nPrompt B: Reflect on your leadership style. How can you be more inclusive? \n\nPrompt C: What actions can you take to foster an environment of inclusive leadership where you work or study?"
+    },
+    {
+        "term": "Ableism",
+        "definition": "Discrimination and social prejudice against people with disabilities, favouring able-bodied individuals.",
+        "impact": "Ableism limits opportunities and access for individuals with disabilities, affecting education, employment, and social participation. \n\nIt contributes to stigmatization and can negatively impact mental and physical health.",
+        "example": "Example #1: A public building without wheelchair access. \n\nExample #2: A job advertisement that unnecessarily requires physical mobility.",
+        "myths": "Myth #1: Disabilities are always visible. However, many are not immediately apparent. \n\nMyth #2: People with disabilities are less capable. However, capability is not determined by physical or mental conditions.",
+        "reflection": "Prompt A: Reflect on a time you witnessed or participated in ableism. How do you feel about it now? \n\nPrompt B: Do you hold any biases towards people with disabilities? \n\nPrompt C: How can you promote inclusivity and challenge ableism in your everyday life?"
+    },
+    {
+        "term": "Tokenism",
+        "definition": "The practice of making only a symbolic effort to include underrepresented groups, to give an appearance of equality.",
+        "impact": "Tokenism undermines true diversity and inclusion, reducing it to a checklist. It may lead to minority individuals feeling undervalued and unsupported.\n\nIt hinders progress towards genuine representation and equality in workplaces and communities.",
+        "example": "Example #1: A company hires a single individual from a marginalized group and highlights them in all their diversity campaigns.\n\nExample #2: A TV show includes one character of a minority background, with little to no development or story arc.",
+        "myths": "Myth #1: Tokenism equals diversity. However, true diversity involves meaningful inclusion of different voices.\n\nMyth #2: Tokenistic inclusion benefits underrepresented groups. However, it often leads to undue pressure and token individuals feeling exploited.",
+        "reflection": "Prompt A: Reflect on an instance where you observed tokenism. How did it impact the individuals involved and the overall environment?\n\nPrompt B: How can you recognize and challenge tokenism in your environment?\n\nPrompt C: Think about how meaningful and respectful representation can be promoted in your community."
+    },
+    {
+        "term": "Gender Equality",
+        "definition": "The state of equal ease of access to resources and opportunities, irrespective of gender.",
+        "impact": "Gender equality fosters fairness, allowing people to pursue their ambitions unencumbered by gender stereotypes.\n\nIt enhances social and economic development, peace, and security, and benefits every individual in society.",
+        "example": "Example #1: A company provides equal pay for equal work to its male and female employees.\n\nExample #2: Both girls and boys are encouraged to pursue their interests, whether in STEM, arts, sports, etc., in a school setting.",
+        "myths": "Myth #1: Gender equality is solely a women's issue. However, it involves men and gender minorities as well.\n\nMyth #2: We've already achieved gender equality. However, many disparities remain in pay, representation, and rights.",
+        "reflection": "Prompt A: Reflect on a time when gender stereotypes impacted your decisions. Would you act differently now?\n\nPrompt B: How can you contribute to promoting gender equality in your environment?\n\nPrompt C: Identify a sphere of society where gender inequality is prevalent. What can be done to address this?"
+    },
+    {
+        "term": "Discrimination",
+        "definition": "The unjust or prejudicial treatment of different categories of people, particularly on the grounds of race, age, sex, or disability.",
+        "impact": "Discrimination creates harmful divisions in society, causing mental, emotional, and physical harm to those affected.\n\nIt limits the potential of individuals and groups, weakening social cohesion and creating disparities in various life domains.",
+        "example": "Example #1: A hiring manager prefers a candidate over another based on their race, ignoring qualifications and merit.\n\nExample #2: A landlord refuses to rent an apartment to a same-sex couple, violating fair housing laws.",
+        "myths": "Myth #1: Discrimination is always intentional. However, it can often be unintentional or systemic.\n\nMyth #2: Discrimination only affects certain groups. However, it can affect anyone, although some groups are disproportionately targeted.",
+        "reflection": "Prompt A: Recall a time when you observed discrimination. How did it make you feel, and how could it have been addressed?\n\nPrompt B: Reflect on subtle ways discrimination can manifest in day-to-day interactions. How can we be more vigilant?\n\nPrompt C: How can we collectively challenge discriminatory practices in our communities and institutions?"
+    }
+]
+

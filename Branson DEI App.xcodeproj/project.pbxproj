@@ -27,6 +27,25 @@
 		0627ED622A3699980067CF0F /* EntriesListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0627ED612A3699980067CF0F /* EntriesListView.swift */; };
 		0627ED652A369A530067CF0F /* BransonDEI.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 0627ED632A369A530067CF0F /* BransonDEI.xcdatamodeld */; };
 		0627ED692A369D930067CF0F /* PersistenceController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0627ED682A369D930067CF0F /* PersistenceController.swift */; };
+		06537E022A523457006E79CD /* TOTWDefinitionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06537E012A523457006E79CD /* TOTWDefinitionView.swift */; };
+		06537E042A52347C006E79CD /* TOTWImpactView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06537E032A52347C006E79CD /* TOTWImpactView.swift */; };
+		06537E062A52348B006E79CD /* TOTWExamplesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06537E052A52348B006E79CD /* TOTWExamplesView.swift */; };
+		06537E082A5234A0006E79CD /* TOTWMythsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06537E072A5234A0006E79CD /* TOTWMythsView.swift */; };
+		06537E0A2A5234B3006E79CD /* TOTWReflectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06537E092A5234B3006E79CD /* TOTWReflectionView.swift */; };
+		06537E0C2A523AAF006E79CD /* TOTWViewAllView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06537E0B2A523AAE006E79CD /* TOTWViewAllView.swift */; };
+		06537E0F2A523BE6006E79CD /* SwiftUIPager in Frameworks */ = {isa = PBXBuildFile; productRef = 06537E0E2A523BE6006E79CD /* SwiftUIPager */; };
+		06537E122A525F1A006E79CD /* Fonts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06537E112A525F1A006E79CD /* Fonts.swift */; };
+		066651F72A6C972D00F0EC94 /* JournalingTipsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 066651F62A6C972D00F0EC94 /* JournalingTipsView.swift */; };
+		066651F92A6C973E00F0EC94 /* JournalingListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 066651F82A6C973E00F0EC94 /* JournalingListView.swift */; };
+		066651FB2A6C977100F0EC94 /* JournalingBenefitsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 066651FA2A6C977100F0EC94 /* JournalingBenefitsView.swift */; };
+		0683B6B72A5B71A10068FDC7 /* totwDataLoader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0683B6B62A5B71A10068FDC7 /* totwDataLoader.swift */; };
+		0683B6BB2A5B84F90068FDC7 /* totwdata.json in Resources */ = {isa = PBXBuildFile; fileRef = 0683B6B42A5A42B90068FDC7 /* totwdata.json */; };
+		0683B6BD2A5CD3D50068FDC7 /* JournalDailyPromptView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0683B6BC2A5CD3D50068FDC7 /* JournalDailyPromptView.swift */; };
+		0683B6C12A5D1E800068FDC7 /* jotdDataLoader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0683B6C02A5D1E800068FDC7 /* jotdDataLoader.swift */; };
+		0683B6C22A5D20730068FDC7 /* jotddata.json in Resources */ = {isa = PBXBuildFile; fileRef = 0683B6BE2A5D0C060068FDC7 /* jotddata.json */; };
+		069895192A526E2F000A5E48 /* Ubuntu-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 069895182A526E2F000A5E48 /* Ubuntu-Bold.ttf */; };
+		0698951B2A526E5A000A5E48 /* Ubuntu-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0698951A2A526E5A000A5E48 /* Ubuntu-Medium.ttf */; };
+		069895232A527BE1000A5E48 /* Ubuntu.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 069895222A527BE1000A5E48 /* Ubuntu.ttf */; };
 		EB56F2E32A36D68800CBEDB3 /* LoginView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB56F2E22A36D68800CBEDB3 /* LoginView.swift */; };
 /* End PBXBuildFile section */
 
@@ -71,6 +90,25 @@
 		0627ED612A3699980067CF0F /* EntriesListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EntriesListView.swift; sourceTree = "<group>"; };
 		0627ED642A369A530067CF0F /* BransonDEI.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = BransonDEI.xcdatamodel; sourceTree = "<group>"; };
 		0627ED682A369D930067CF0F /* PersistenceController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PersistenceController.swift; sourceTree = "<group>"; };
+		06537E012A523457006E79CD /* TOTWDefinitionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TOTWDefinitionView.swift; sourceTree = "<group>"; };
+		06537E032A52347C006E79CD /* TOTWImpactView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TOTWImpactView.swift; sourceTree = "<group>"; };
+		06537E052A52348B006E79CD /* TOTWExamplesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TOTWExamplesView.swift; sourceTree = "<group>"; };
+		06537E072A5234A0006E79CD /* TOTWMythsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TOTWMythsView.swift; sourceTree = "<group>"; };
+		06537E092A5234B3006E79CD /* TOTWReflectionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TOTWReflectionView.swift; sourceTree = "<group>"; };
+		06537E0B2A523AAE006E79CD /* TOTWViewAllView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TOTWViewAllView.swift; sourceTree = "<group>"; };
+		06537E102A525CFE006E79CD /* Branson-DEI-App-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = "Branson-DEI-App-Info.plist"; sourceTree = SOURCE_ROOT; };
+		06537E112A525F1A006E79CD /* Fonts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Fonts.swift; sourceTree = "<group>"; };
+		066651F62A6C972D00F0EC94 /* JournalingTipsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JournalingTipsView.swift; sourceTree = "<group>"; };
+		066651F82A6C973E00F0EC94 /* JournalingListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JournalingListView.swift; sourceTree = "<group>"; };
+		066651FA2A6C977100F0EC94 /* JournalingBenefitsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JournalingBenefitsView.swift; sourceTree = "<group>"; };
+		0683B6B42A5A42B90068FDC7 /* totwdata.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = totwdata.json; sourceTree = "<group>"; };
+		0683B6B62A5B71A10068FDC7 /* totwDataLoader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = totwDataLoader.swift; sourceTree = "<group>"; };
+		0683B6BC2A5CD3D50068FDC7 /* JournalDailyPromptView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JournalDailyPromptView.swift; sourceTree = "<group>"; };
+		0683B6BE2A5D0C060068FDC7 /* jotddata.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = jotddata.json; sourceTree = "<group>"; };
+		0683B6C02A5D1E800068FDC7 /* jotdDataLoader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = jotdDataLoader.swift; sourceTree = "<group>"; };
+		069895182A526E2F000A5E48 /* Ubuntu-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Ubuntu-Bold.ttf"; sourceTree = "<group>"; };
+		0698951A2A526E5A000A5E48 /* Ubuntu-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Ubuntu-Medium.ttf"; sourceTree = "<group>"; };
+		069895222A527BE1000A5E48 /* Ubuntu.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Ubuntu.ttf; sourceTree = "<group>"; };
 		EB56F2E22A36D68800CBEDB3 /* LoginView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -79,6 +117,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				06537E0F2A523BE6006E79CD /* SwiftUIPager in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -122,10 +161,27 @@
 		0627ED1C2A367F160067CF0F /* Branson DEI App */ = {
 			isa = PBXGroup;
 			children = (
+				06537E112A525F1A006E79CD /* Fonts.swift */,
+				06537E102A525CFE006E79CD /* Branson-DEI-App-Info.plist */,
+				069895172A526DC1000A5E48 /* FontsFolder */,
 				0627ED1D2A367F160067CF0F /* Branson_DEI_AppApp.swift */,
 				0627ED682A369D930067CF0F /* PersistenceController.swift */,
+				06537E012A523457006E79CD /* TOTWDefinitionView.swift */,
+				06537E032A52347C006E79CD /* TOTWImpactView.swift */,
+				06537E052A52348B006E79CD /* TOTWExamplesView.swift */,
+				06537E072A5234A0006E79CD /* TOTWMythsView.swift */,
+				06537E092A5234B3006E79CD /* TOTWReflectionView.swift */,
+				06537E0B2A523AAE006E79CD /* TOTWViewAllView.swift */,
+				0683B6B62A5B71A10068FDC7 /* totwDataLoader.swift */,
+				0683B6C02A5D1E800068FDC7 /* jotdDataLoader.swift */,
+				0683B6B42A5A42B90068FDC7 /* totwdata.json */,
+				066651F62A6C972D00F0EC94 /* JournalingTipsView.swift */,
+				066651F82A6C973E00F0EC94 /* JournalingListView.swift */,
 				0627ED512A36806A0067CF0F /* JournalingMainView.swift */,
+				066651FA2A6C977100F0EC94 /* JournalingBenefitsView.swift */,
+				0683B6BC2A5CD3D50068FDC7 /* JournalDailyPromptView.swift */,
 				0627ED592A36983D0067CF0F /* NewEntryView.swift */,
+				0683B6BE2A5D0C060068FDC7 /* jotddata.json */,
 				0627ED5F2A36998B0067CF0F /* EntryDetailView.swift */,
 				0627ED612A3699980067CF0F /* EntriesListView.swift */,
 				0627ED632A369A530067CF0F /* BransonDEI.xcdatamodeld */,
@@ -169,6 +225,16 @@
 			path = "Branson DEI AppUITests";
 			sourceTree = "<group>";
 		};
+		069895172A526DC1000A5E48 /* FontsFolder */ = {
+			isa = PBXGroup;
+			children = (
+				069895222A527BE1000A5E48 /* Ubuntu.ttf */,
+				0698951A2A526E5A000A5E48 /* Ubuntu-Medium.ttf */,
+				069895182A526E2F000A5E48 /* Ubuntu-Bold.ttf */,
+			);
+			path = FontsFolder;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -185,6 +251,9 @@
 			dependencies = (
 			);
 			name = "Branson DEI App";
+			packageProductDependencies = (
+				06537E0E2A523BE6006E79CD /* SwiftUIPager */,
+			);
 			productName = "Branson DEI App";
 			productReference = 0627ED1A2A367F160067CF0F /* Branson DEI App.app */;
 			productType = "com.apple.product-type.application";
@@ -257,6 +326,9 @@
 				Base,
 			);
 			mainGroup = 0627ED112A367F160067CF0F;
+			packageReferences = (
+				06537E0D2A523BE6006E79CD /* XCRemoteSwiftPackageReference "SwiftUIPager" */,
+			);
 			productRefGroup = 0627ED1B2A367F160067CF0F /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -273,7 +345,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				069895192A526E2F000A5E48 /* Ubuntu-Bold.ttf in Resources */,
+				0683B6C22A5D20730068FDC7 /* jotddata.json in Resources */,
+				0683B6BB2A5B84F90068FDC7 /* totwdata.json in Resources */,
+				0698951B2A526E5A000A5E48 /* Ubuntu-Medium.ttf in Resources */,
 				0627ED252A367F1A0067CF0F /* Preview Assets.xcassets in Resources */,
+				069895232A527BE1000A5E48 /* Ubuntu.ttf in Resources */,
 				0627ED222A367F1A0067CF0F /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -299,22 +376,35 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				066651F72A6C972D00F0EC94 /* JournalingTipsView.swift in Sources */,
+				066651FB2A6C977100F0EC94 /* JournalingBenefitsView.swift in Sources */,
+				06537E082A5234A0006E79CD /* TOTWMythsView.swift in Sources */,
 				0627ED602A36998B0067CF0F /* EntryDetailView.swift in Sources */,
 				0627ED562A3680A90067CF0F /* ScenarioCreationView.swift in Sources */,
 				0627ED522A36806A0067CF0F /* JournalingMainView.swift in Sources */,
+				0683B6BD2A5CD3D50068FDC7 /* JournalDailyPromptView.swift in Sources */,
+				0683B6C12A5D1E800068FDC7 /* jotdDataLoader.swift in Sources */,
 				0627ED482A367F730067CF0F /* ContentView.swift in Sources */,
 				0627ED502A36800B0067CF0F /* DashboardView.swift in Sources */,
 				0627ED4C2A367FC20067CF0F /* Color.swift in Sources */,
 				0627ED622A3699980067CF0F /* EntriesListView.swift in Sources */,
+				066651F92A6C973E00F0EC94 /* JournalingListView.swift in Sources */,
 				0627ED4A2A367FA00067CF0F /* CaseScenarioList.swift in Sources */,
 				0627ED542A36808E0067CF0F /* ResourcesMainView.swift in Sources */,
+				06537E122A525F1A006E79CD /* Fonts.swift in Sources */,
 				0627ED5A2A36983D0067CF0F /* NewEntryView.swift in Sources */,
+				06537E0A2A5234B3006E79CD /* TOTWReflectionView.swift in Sources */,
 				0627ED4E2A367FF10067CF0F /* DEIOverviewView.swift in Sources */,
 				0627ED1E2A367F160067CF0F /* Branson_DEI_AppApp.swift in Sources */,
 				0627ED652A369A530067CF0F /* BransonDEI.xcdatamodeld in Sources */,
+				06537E0C2A523AAF006E79CD /* TOTWViewAllView.swift in Sources */,
 				0627ED582A3680C70067CF0F /* UIColor.swift in Sources */,
 				EB56F2E32A36D68800CBEDB3 /* LoginView.swift in Sources */,
+				06537E062A52348B006E79CD /* TOTWExamplesView.swift in Sources */,
+				06537E022A523457006E79CD /* TOTWDefinitionView.swift in Sources */,
+				06537E042A52347C006E79CD /* TOTWImpactView.swift in Sources */,
 				0627ED692A369D930067CF0F /* PersistenceController.swift in Sources */,
+				0683B6B72A5B71A10068FDC7 /* totwDataLoader.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -475,6 +565,7 @@
 				DEVELOPMENT_ASSET_PATHS = "\"Branson DEI App/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Branson-DEI-App-Info.plist";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -503,6 +594,7 @@
 				DEVELOPMENT_ASSET_PATHS = "\"Branson DEI App/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Branson-DEI-App-Info.plist";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -633,6 +725,25 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		06537E0D2A523BE6006E79CD /* XCRemoteSwiftPackageReference "SwiftUIPager" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/fermoya/SwiftUIPager";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 2.0.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		06537E0E2A523BE6006E79CD /* SwiftUIPager */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 06537E0D2A523BE6006E79CD /* XCRemoteSwiftPackageReference "SwiftUIPager" */;
+			productName = SwiftUIPager;
+		};
+/* End XCSwiftPackageProductDependency section */
 
 /* Begin XCVersionGroup section */
 		0627ED632A369A530067CF0F /* BransonDEI.xcdatamodeld */ = {
