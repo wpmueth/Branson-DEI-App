@@ -62,13 +62,21 @@ struct DashboardView: View {
                         .frame(width: 225, height: 2)
                         .padding(.bottom, 25.0)
 
-                    NavigationLink(destination: CaseScenarioList()) {
+                    
                         ZStack(alignment: .leading) {
                             RoundedRectangle(cornerRadius: 5)
                                 .fill(Color.white)
-                                .frame(width: 390, height: 160, alignment: .center)
+                                .frame(width: 370, height: 160, alignment: .center)
                                 .shadow(color: Color.gray.opacity(0.2), radius: 5, x: 2, y: 2)
+                                .opacity(0.5)
 
+                            ZStack {
+                                        Image("coming_soon_DEI_3")
+                                            .resizable()
+                                            .aspectRatio(contentMode: .fit)
+                                            .frame(width: 350, height: 140) // Adjust as necessary to fit the banner properly
+                                            .opacity(0.4) // Optional: Change this value to adjust the opacity of the banner
+                                    }
 
                             VStack(alignment: .leading) {
                                 HStack {
@@ -76,10 +84,12 @@ struct DashboardView: View {
                                         Text("New Case Scenario")
                                             .font(.custom("Ubuntu", size: 25))
                                             .foregroundColor(Color.black)
+                                            .opacity(0.5)
 
                                         Rectangle()
                                             .fill(Color(hex: "#142C8E"))
                                             .frame(width: 250, height: 2)
+                                            .opacity(0.5)
                                     }
                                 }
 
@@ -88,10 +98,12 @@ struct DashboardView: View {
                                     .foregroundColor(Color(hex: "#525454"))
                                     .multilineTextAlignment(.leading)
                                     .padding([.top, .trailing], 5)
+                                    .opacity(0.5)
                  
 
                             }
                             .padding(.horizontal, 10)
+                            
                         }
                         .padding(.horizontal)
                     }
@@ -107,7 +119,7 @@ struct DashboardView: View {
                             .fill(Color.white)
                             .frame(width: 360, height: 140, alignment: .center)
                             .shadow(color: Color.gray.opacity(0.2), radius: 5, x: 2, y: 2)
-
+                        
                         VStack {
                             HStack {
                                 Image("world_DEI")
@@ -236,7 +248,7 @@ struct DashboardView: View {
             Text("This view is not yet implemented")
         }
     }
-}
+
 
 struct DashboardView_Previews: PreviewProvider {
     static var previews: some View {

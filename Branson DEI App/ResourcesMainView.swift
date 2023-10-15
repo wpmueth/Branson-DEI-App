@@ -194,9 +194,9 @@ struct CarouselData: Identifiable {
     let videoUrl: String
 
     static let list = [
-        CarouselData(imageName: "image_1", videoUrl: "https://www.youtube.com/watch?v=51CHNtNlFR8"),
-        CarouselData(imageName: "image_2", videoUrl: "https://www.youtube.com/watch?v=6Gv-GYOf0KI"),
-        CarouselData(imageName: "image_3", videoUrl: "https://www.youtube.com/watch?v=AiQT6_u7qm0")
+        CarouselData(imageName: "image_1", videoUrl: "https://www.youtube.com/watch?v=ApBJpVjf9kw"),
+        CarouselData(imageName: "image_2", videoUrl: "https://www.youtube.com/watch?v=F1NcWFkIj2c"),
+        CarouselData(imageName: "image_3", videoUrl: "https://www.youtube.com/watch?v=Fr8G7MtRNlk")
     ]
     
     static let standaloneVideo = CarouselData(imageName: "e3_thumbnail_DEI_final", videoUrl: "https://www.youtube.com/watch?v=sxTFQcoQ7hs")
